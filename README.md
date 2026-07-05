@@ -299,17 +299,6 @@ http://localhost:8080/TorchBearer/
 
 ---
 
-# 🎓 Academic Information
-
-**Mini Project – Frontend/Backend Application Using Java**
-
-**Department of Information Technology**
-
-**St. Francis Institute of Technology**
-
-**Academic Year:** 2024–2025
-
----
 
 # 🙏 Acknowledgements
 
